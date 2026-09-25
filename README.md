@@ -2,94 +2,116 @@
 
 # ✦ SAPNA ✦
 
-### B.Tech CSE (AI & ML) | Python | Machine Learning | Problem Solving
+### B.Tech CSE (AI & ML) | AI/ML | Python | Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Student;Building+Practical+Machine+Learning+Projects;Python+%7C+Data+%7C+Machine+Learning+%7C+DSA;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Python+%7C+Machine+Learning+%7C+Data+Science;Building+Practical+AI+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Sunrise-08&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9"/>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/sapna-500454290/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Diamond_1708/">
-<img src="https://img.shields.io/badge/LeetCode-Diamond__1708-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 </div>
 
 ---
 
-# 👩‍💻 ABOUT ME
+# 👋 Hi, I'm Sapna
 
-I'm **Sapna**, a final-year **B.Tech Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning**.
+- 🎓 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
+- 🐍 Working with Python and machine learning technologies
+- 💻 Building my foundation in Data Structures & Algorithms
+- 📊 Interested in data preprocessing, feature engineering and predictive modeling
+- 🚀 Learning by building practical projects
+- 🌱 Continuously improving my technical and problem-solving skills
+- 💼 **Open to Opportunities**
 
-I enjoy working with Python, exploring machine learning algorithms, analyzing data, solving Data Structures & Algorithms problems, and building practical projects that turn ideas into working solutions.
+---
 
-### 💼 Open to Opportunities
+# 🧠 ABOUT ME
 
-`AI / ML` • `Python` • `Software Development` • `Data Science` • `Problem Solving`
+I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
+
+I enjoy turning ideas into practical projects, experimenting with machine learning models, working with data, and improving my programming and problem-solving skills.
+
+My current journey combines **Python, Machine Learning, Data Science, DSA and AI**, with a focus on building projects that help me understand concepts through implementation.
 
 ---
 
 # ⚡ QUICK PROFILE
 
+<div align="center">
+
 <table>
 <tr>
-<td width="25%" align="center">
 
-### 🎓
-**Education**
+<td align="center" width="20%">
 
-B.Tech CSE  
+🎓
+
+### EDUCATION
+
+B.Tech  
+CSE  
 AI & ML
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 🐍
-**Primary Language**
+🐍
+
+### LANGUAGE
 
 Python
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 🤖
-**Focus**
+🤖
+
+### SPECIALIZATION
 
 AI & ML
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="20%">
 
-### 💻
-**Practice**
+📊
+
+### INTEREST
+
+Data Science
+
+</td>
+
+<td align="center" width="20%">
+
+💻
+
+### PRACTICE
 
 DSA
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 # 🛠️ TECH STACK
 
-### 💻 Languages
+## 💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,html"/>
 </p>
 
-### 🤖 Machine Learning & Data
+## 🤖 Machine Learning & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -99,7 +121,7 @@ DSA
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+## 🔧 Tools & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode"/>
@@ -109,7 +131,7 @@ DSA
 
 # 🚀 PROJECTS
 
-## 🤖 MACHINE LEARNING PROJECTS
+## 🤖 MACHINE LEARNING & AI
 
 <table>
 <tr>
@@ -118,17 +140,18 @@ DSA
 
 ## 🏦 Loan Status Prediction
 
-A machine learning classification project that predicts loan approval status based on applicant information.
+Machine learning classification project that predicts loan approval status using applicant-related information.
 
-### Highlights
+### Key Work
 
-• Data preprocessing  
-• Feature engineering  
-• Classification  
-• Support Vector Machine  
-• Model evaluation  
+- Data preprocessing
+- Feature engineering
+- Feature selection
+- Classification
+- Model training
+- Model evaluation
 
-### Stack
+### Tech Stack
 
 `Python` `Pandas` `NumPy` `Scikit-Learn` `SVM`
 
@@ -138,17 +161,18 @@ A machine learning classification project that predicts loan approval status bas
 
 ## ❤️ Heart Disease Prediction
 
-A machine learning classification project that predicts the possibility of heart disease using patient-related features.
+Machine learning classification project that predicts the possibility of heart disease using patient-related features.
 
-### Highlights
+### Key Work
 
-• Data preprocessing  
-• Feature analysis  
-• Classification  
-• Model training  
-• Model evaluation  
+- Data preprocessing
+- Exploratory analysis
+- Feature analysis
+- Classification
+- Model training
+- Model evaluation
 
-### Stack
+### Tech Stack
 
 `Python` `Pandas` `NumPy` `Scikit-Learn`
 
@@ -162,17 +186,18 @@ A machine learning classification project that predicts the possibility of heart
 
 ## 🎯 Rock vs Mine Prediction
 
-A classification project using sonar signal data to distinguish between rocks and mines.
+Machine learning classification project using sonar signal data to distinguish between rocks and mines.
 
-### Highlights
+### Key Work
 
-• Numerical data processing  
-• Feature analysis  
-• Classification  
-• Model training  
-• Prediction  
+- Numerical data processing
+- Feature analysis
+- Classification
+- Model training
+- Prediction
+- Evaluation
 
-### Stack
+### Tech Stack
 
 `Python` `Pandas` `NumPy` `Scikit-Learn`
 
@@ -180,22 +205,67 @@ A classification project using sonar signal data to distinguish between rocks an
 
 <td width="50%" valign="top">
 
-## 🎫 AI Support Ticket Analytics
+## 🎫 AI Engineer Assessment
 
-An AI-powered support-ticket analytics system designed to answer questions about support-ticket data using natural language.
+AI-powered support-ticket analytics application designed to answer questions about support-ticket data using natural language.
 
-### Highlights
+### Key Work
 
-• FastAPI backend  
-• Streamlit interface  
-• Ticket analytics  
-• Natural-language queries  
-• Local LLM integration  
-• Anomaly detection  
+- FastAPI backend
+- Streamlit interface
+- Natural-language querying
+- Ticket analytics
+- Local LLM integration
+- Anomaly detection
 
-### Stack
+### Tech Stack
 
-`Python` `FastAPI` `Streamlit` `Pandas` `Ollama` `LLM`
+`Python` `FastAPI` `Streamlit` `Pandas` `Ollama` `Llama 3.2`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ✅ Task-Manager-Python
+
+Beginner-friendly Python command-line task manager designed to practice Python fundamentals through a practical application.
+
+### Features
+
+- Add tasks
+- Update tasks
+- Delete tasks
+- View tasks
+- Command-line interaction
+
+### Tech Stack
+
+`Python` `CLI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📧 Spam Email Classifier
+
+Machine learning and data science project focused on classifying emails using prediction and NLP techniques.
+
+### Key Work
+
+- Data preprocessing
+- Text processing
+- NLP
+- Feature extraction
+- Classification
+- Prediction
+
+### Tech Stack
+
+`Python` `Jupyter Notebook` `Machine Learning` `NLP`
 
 </td>
 
@@ -204,53 +274,62 @@ An AI-powered support-ticket analytics system designed to answer questions about
 
 ---
 
-# 📌 PROJECT TECHNOLOGY MAP
+# 📌 PROJECT SNAPSHOT
 
 <div align="center">
 
-| Project | Area | Technologies |
+| Project | Domain | Main Focus |
 |:---|:---:|:---|
-| 🏦 Loan Status Prediction | ML Classification | Python • SVM • Scikit-Learn |
-| ❤️ Heart Disease Prediction | ML Classification | Python • Pandas • Scikit-Learn |
-| 🎯 Rock vs Mine Prediction | ML Classification | Python • NumPy • Scikit-Learn |
-| 🎫 AI Support Ticket Analytics | AI / Data | FastAPI • Streamlit • Ollama |
+| 🏦 Loan Status Prediction | Machine Learning | Classification / SVM |
+| ❤️ Heart Disease Prediction | Machine Learning | Classification |
+| 🎯 Rock vs Mine Prediction | Machine Learning | Classification |
+| 🎫 AI Engineer Assessment | AI / LLM | Support Ticket Analytics |
+| ✅ Task-Manager-Python | Python | CLI Application |
+| 📧 Spam Email Classifier | ML / NLP | Email Classification |
 
 </div>
 
 ---
 
-# 🧠 MACHINE LEARNING WORKFLOW
+# 🧩 MACHINE LEARNING WORKFLOW
 
 <div align="center">
 
 ```text
-                    ┌──────────────┐
-                    │     DATA     │
-                    └──────┬───────┘
-                           ↓
-                 ┌──────────────────┐
-                 │ PREPROCESSING    │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ FEATURE          │
-                 │ ENGINEERING      │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ MODEL TRAINING   │
-                 └────────┬─────────┘
-                          ↓
-              ┌───────────┴───────────┐
-              ↓                       ↓
-       CLASSIFICATION             REGRESSION
-              │                       │
-              └───────────┬───────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   EVALUATION     │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   PREDICTION     │
-                 └──────────────────┘
+                         DATA
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ DATA CLEANING   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ PREPROCESSING   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │    FEATURES     │
+                  │  ENGINEERING    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ MODEL TRAINING  │
+                  └────────┬────────┘
+                           │
+                 ┌─────────┴─────────┐
+                 ▼                   ▼
+          CLASSIFICATION         REGRESSION
+                 │                   │
+                 └─────────┬─────────┘
+                           ▼
+                  ┌─────────────────┐
+                  │   EVALUATION    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   PREDICTION    │
+                  └─────────────────┘
