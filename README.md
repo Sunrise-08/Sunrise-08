@@ -1,28 +1,22 @@
 <div align="center">
 
-<table>
-<tr>
+<!-- ========================================================= -->
+<!-- 3RD IMAGE — TOP OF README -->
+<!-- ========================================================= -->
 
-<td width="65%" align="left">
+<img src="./assets/ai-ml-banner.png" width="100%" alt="Sapna AI ML Banner"/>
+
+<br><br>
 
 # ✦ SAPNA ✦
 
-# AI ENGINEER | ML ENGINEER | DATA SCIENTIST
+## AI ENGINEER | ML ENGINEER | DATA SCIENTIST
+
+### 💼 OPEN TO OPPORTUNITIES
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=false&vCenter=true&width=650&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI+%26+ML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,50:6366F1,100:A855F7&height=220&section=header&text=AI%20%2B%20ML&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=INTELLIGENT%20SOLUTIONS&descAlignY=67&descSize=11"/>
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI+%26+ML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
 <br>
 
@@ -61,6 +55,18 @@ My goal is to apply my programming, machine learning and analytical skills to bu
 I enjoy learning new technologies, experimenting with machine learning concepts, building projects and improving my problem-solving abilities through consistent practice.
 
 I'm looking for opportunities where I can **learn from experienced professionals, contribute to meaningful projects, work as part of a team and grow as an AI/ML professional.**
+
+---
+
+<!-- ========================================================= -->
+<!-- 2ND IMAGE -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="./assets/ai-ml-study.png" width="90%" alt="AI and Machine Learning"/>
+
+</div>
 
 ---
 
@@ -259,17 +265,7 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SAPNA'S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SAPNA%27S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%" alt="Sapna GitHub Contribution Graph"/>
 
 </div>
 
@@ -329,6 +325,10 @@ Coding & Algorithms
 
 <div align="center">
 
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Sunrise-08">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -339,10 +339,6 @@ Coding & Algorithms
 
 <a href="https://leetcode.com/u/Diamond_1708/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -356,9 +352,5 @@ Coding & Algorithms
 <br>
 
 **"Turning knowledge into practical solutions and opportunities."**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:0EA5E9&height=120&section=footer"/>
 
 </div>
