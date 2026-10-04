@@ -1,32 +1,30 @@
 <div align="center">
 
-<!-- ====================================================== -->
-<!-- TOP AI/ML POSTER -->
-<!-- ====================================================== -->
-
-<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/main/assets/ai-ml-banner.png" width="100%" alt="AI ML Banner"/>
-
-<br><br>
-
 # ✦ SAPNA ✦
 
 ## AI ENGINEER | ML ENGINEER | DATA SCIENTIST
 
-### 💼 OPEN TO OPPORTUNITIES
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI+%26+ML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI%2FML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" height="55"/>
+
+<br><br>
+
+<a href="https://github.com/Sunrise-08">
+<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6366F1"/>
+</a>
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/Sunrise-08">
-<img src="https://img.shields.io/github/followers/Sunrise-08?label=FOLLOWERS&style=for-the-badge&color=6366F1&logo=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&label=PROFILE+VIEWS&color=0EA5E9"/>
+
+<br><br>
+
+### 💼 OPEN TO OPPORTUNITIES
+
+**AI Engineer • ML Engineer • Data Scientist • AI/ML Intern • Data Science Intern**
 
 </div>
 
@@ -35,14 +33,15 @@
 # 👋 HI, I'M SAPNA
 
 - 🎓 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
-- 🤖 Working towards a career as an **AI Engineer, ML Engineer or Data Scientist**
-- 🐍 Building strong skills in **Python, Machine Learning and Data Science**
+- 🤖 Aspiring **AI Engineer**
+- 🧠 Aspiring **ML Engineer**
+- 📊 Aspiring **Data Scientist**
+- 🐍 Strong interest in **Python, Machine Learning and Data Science**
 - 💻 Building practical **AI/ML projects**
 - 📚 Strengthening **Data Structures & Algorithms**
-- 🧠 Developing my programming, analytical and problem-solving abilities
-- 🚀 Looking for opportunities to learn, build and contribute
-- 🌱 Continuously improving my technical skills
-- 💼 **OPEN TO OPPORTUNITIES**
+- 🚀 Focused on learning, building and solving real-world problems
+- 🌱 Continuously improving my technical and problem-solving skills
+- 💼 **Open to Opportunities**
 
 ---
 
@@ -50,23 +49,11 @@
 
 I'm a **B.Tech CSE (AI & ML) student** working towards a career in **Artificial Intelligence, Machine Learning and Data Science**.
 
-My goal is to apply my programming, machine learning and analytical skills to build practical solutions for real-world problems.
+My goal is to work as an **AI Engineer, ML Engineer or Data Scientist**, where I can apply my programming, machine learning and analytical skills to solve real-world problems.
 
-I enjoy learning new technologies, experimenting with machine learning concepts, building projects and improving my problem-solving abilities through consistent practice.
+I enjoy working with **Python, machine learning models, data and AI-based applications**, while continuously improving my programming, analytical and problem-solving abilities.
 
-I'm looking for opportunities where I can **learn from experienced professionals, contribute to meaningful projects, work as part of a team and grow as an AI/ML professional.**
-
----
-
-<!-- ====================================================== -->
-<!-- SECOND IMAGE -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/main/assets/ai-ml-study.png" width="90%" alt="AI and Machine Learning"/>
-
-</div>
+I'm looking for opportunities where I can **learn from experienced professionals, work on challenging projects, contribute to a team and grow into a strong AI/ML professional.**
 
 ---
 
@@ -239,13 +226,13 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 ---
 
-# 📊 GITHUB STATISTICS
+# 📈 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -255,29 +242,27 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF"/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 📊 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunrise-08&theme=github_dark" width="98%" alt="Sapna GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SAPNA'S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%"/>
 
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!-- THIRD IMAGE -->
-<!-- ====================================================== -->
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/main/assets/ai-ml-workspace.png" width="90%" alt="AI ML Workspace"/>
+<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -337,10 +322,6 @@ Coding & Algorithms
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Sunrise-08">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -351,6 +332,10 @@ Coding & Algorithms
 
 <a href="https://leetcode.com/u/Diamond_1708/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
