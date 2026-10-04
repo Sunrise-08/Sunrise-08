@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!-- 3RD IMAGE — TOP OF README -->
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+<!-- TOP AI/ML POSTER -->
+<!-- ====================================================== -->
 
-<img src="./assets/ai-ml-banner.png" width="100%" alt="Sapna AI ML Banner"/>
+<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/main/assets/ai-ml-banner.png" width="100%" alt="AI ML Banner"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI+%26+ML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sunrise-08&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9"/>
 
@@ -42,7 +42,7 @@
 - 🧠 Developing my programming, analytical and problem-solving abilities
 - 🚀 Looking for opportunities to learn, build and contribute
 - 🌱 Continuously improving my technical skills
-- 💼 **Open to Opportunities**
+- 💼 **OPEN TO OPPORTUNITIES**
 
 ---
 
@@ -58,13 +58,13 @@ I'm looking for opportunities where I can **learn from experienced professionals
 
 ---
 
-<!-- ========================================================= -->
-<!-- 2ND IMAGE -->
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+<!-- SECOND IMAGE -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="./assets/ai-ml-study.png" width="90%" alt="AI and Machine Learning"/>
+<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/main/assets/ai-ml-study.png" width="90%" alt="AI and Machine Learning"/>
 
 </div>
 
@@ -243,9 +243,9 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
 
 </div>
 
@@ -255,7 +255,7 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF" width="90%"/>
 
 </div>
 
@@ -265,7 +265,19 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SAPNA%27S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%" alt="Sapna GitHub Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunrise-08&theme=github_dark" width="98%" alt="Sapna GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!-- THIRD IMAGE -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/main/assets/ai-ml-workspace.png" width="90%" alt="AI ML Workspace"/>
 
 </div>
 
