@@ -7,17 +7,17 @@
 
 # ✦ SAPNA ✦
 
-## AI ENGINEER | ML ENGINEER | DATA SCIENTIST
+# AI ENGINEER | ML ENGINEER | DATA SCIENTIST
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=false&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Aspiring+ML+Engineer;Aspiring+Data+Scientist;Artificial+Intelligence+%7C+Machine+Learning;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=38BDF8&center=false&vCenter=true&width=650&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI+%26+ML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,50:6366F1,100:A855F7&height=220&section=header&text=%F0%9F%A4%96%20AI%20%2B%20ML&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=BUILDING%20INTELLIGENT%20SOLUTIONS&descAlignY=65&descSize=10"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0EA5E9,50:6366F1,100:A855F7&height=220&section=header&text=AI%20%2B%20ML&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=INTELLIGENT%20SOLUTIONS&descAlignY=67&descSize=11"/>
 
 </td>
 
@@ -38,61 +38,16 @@
 
 ---
 
-# 🎯 CAREER GOALS
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🤖 AI ENGINEER
-
-Build intelligent applications, AI-powered systems and practical solutions using modern AI technologies.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🧠 ML ENGINEER
-
-Develop, train, evaluate and improve machine learning models for real-world applications.
-
-</td>
-
-<td width="33%" align="center">
-
-## 📊 DATA SCIENTIST
-
-Analyze data, discover meaningful patterns and create predictive solutions that support better decisions.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### 💼 OPEN TO OPPORTUNITIES
-
-**AI Engineer • ML Engineer • Data Scientist • AI/ML Intern • Machine Learning Intern • Data Science Intern**
-
-</div>
-
----
-
 # 👋 HI, I'M SAPNA
 
 - 🎓 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
-- 🤖 Aspiring **AI Engineer**
-- 🧠 Aspiring **ML Engineer**
-- 📊 Aspiring **Data Scientist**
-- 🐍 Strong interest in **Python, Machine Learning and Data Science**
+- 🤖 Working towards a career as an **AI Engineer, ML Engineer or Data Scientist**
+- 🐍 Building strong skills in **Python, Machine Learning and Data Science**
 - 💻 Building practical **AI/ML projects**
 - 📚 Strengthening **Data Structures & Algorithms**
-- 🚀 Focused on learning, building and solving real-world problems
-- 🌱 Continuously improving my technical and problem-solving skills
+- 🧠 Developing my programming, analytical and problem-solving abilities
+- 🚀 Looking for opportunities to learn, build and contribute
+- 🌱 Continuously improving my technical skills
 - 💼 **Open to Opportunities**
 
 ---
@@ -101,11 +56,11 @@ Analyze data, discover meaningful patterns and create predictive solutions that 
 
 I'm a **B.Tech CSE (AI & ML) student** working towards a career in **Artificial Intelligence, Machine Learning and Data Science**.
 
-My career goal is to become an **AI Engineer, ML Engineer or Data Scientist** and contribute to projects where technology can be used to solve meaningful real-world problems.
+My goal is to apply my programming, machine learning and analytical skills to build practical solutions for real-world problems.
 
-I enjoy working with **Python, machine learning models, data and AI-based applications**, while continuously improving my programming, analytical and problem-solving abilities.
+I enjoy learning new technologies, experimenting with machine learning concepts, building projects and improving my problem-solving abilities through consistent practice.
 
-I'm looking for opportunities where I can **learn from experienced professionals, work on challenging projects, contribute to a team and grow into a strong AI/ML professional.**
+I'm looking for opportunities where I can **learn from experienced professionals, contribute to meaningful projects, work as part of a team and grow as an AI/ML professional.**
 
 ---
 
@@ -278,7 +233,7 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 ---
 
-# 📈 GITHUB STATS
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
@@ -300,11 +255,11 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 ---
 
-# 📊 CONTRIBUTION GRAPH
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&area_color=6366F1&hide_border=true&custom_title=SAPNA'S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SAPNA'S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%"/>
 
 </div>
 
