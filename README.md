@@ -4,7 +4,9 @@
 
 ### B.Tech CSE (AI & ML) | AI/ML | Python | Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Python+%7C+Machine+Learning+%7C+Data+Science;Building+Practical+AI+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=180&section=header&text=AI%20%26%20ML%20STUDENT&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=62&descSize=17"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Aspiring+ML+Engineer;Aspiring+Data+Scientist;Building+AI+%26+Machine+Learning+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
 <br>
 
@@ -17,87 +19,68 @@
 # 👋 Hi, I'm Sapna
 
 - 🎓 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
-- 🐍 Working with Python and machine learning technologies
-- 💻 Building my foundation in Data Structures & Algorithms
-- 📊 Interested in data preprocessing, feature engineering and predictive modeling
-- 🚀 Learning by building practical projects
-- 🌱 Continuously improving my technical and problem-solving skills
+- 🤖 Aspiring **AI Engineer**
+- 🧠 Aspiring **ML Engineer**
+- 📊 Aspiring **Data Scientist**
+- 🐍 Building strong skills in **Python, Machine Learning and Data Science**
+- 💻 Developing practical projects to strengthen my **AI/ML knowledge**
+- 📚 Continuously improving my **DSA, programming and problem-solving skills**
+- 🚀 Looking for opportunities where I can **learn, build and contribute**
 - 💼 **Open to Opportunities**
 
 ---
 
 # 🧠 ABOUT ME
 
-I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
+I'm a **B.Tech CSE (AI & ML) student** aiming to build my career in the fields of **Artificial Intelligence, Machine Learning and Data Science**.
 
-I enjoy turning ideas into practical projects, experimenting with machine learning models, working with data, and improving my programming and problem-solving skills.
+My goal is to work as an **AI Engineer, ML Engineer or Data Scientist**, where I can apply my programming, machine learning and analytical skills to solve real-world problems.
 
-My current journey combines **Python, Machine Learning, Data Science, DSA and AI**, with a focus on building projects that help me understand concepts through implementation.
+I enjoy learning new technologies, building practical projects and continuously improving my technical and problem-solving abilities.
+
+I'm particularly interested in opportunities that allow me to **learn from experienced teams, work on meaningful projects and grow as an AI/ML professional.**
 
 ---
 
-# ⚡ QUICK PROFILE
+# 🎯 CAREER GOALS
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-🎓
+### 🤖 AI ENGINEER
 
-### EDUCATION
-
-B.Tech  
-CSE  
-AI & ML
+Building intelligent applications and AI-powered solutions.
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-🐍
+### 🧠 ML ENGINEER
 
-### LANGUAGE
-
-Python
+Developing, training and improving machine learning models.
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-🤖
+### 📊 DATA SCIENTIST
 
-### SPECIALIZATION
-
-AI & ML
-
-</td>
-
-<td align="center" width="20%">
-
-📊
-
-### INTEREST
-
-Data Science
-
-</td>
-
-<td align="center" width="20%">
-
-💻
-
-### PRACTICE
-
-DSA
+Turning data into meaningful insights and predictive solutions.
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+### 💼 Open to Opportunities
+
+**AI Engineer • ML Engineer • Data Scientist • Machine Learning Intern • AI/ML Intern • Data Science Intern**
 
 </div>
 
@@ -130,8 +113,6 @@ DSA
 ---
 
 # 🚀 PROJECTS
-
-## 🤖 MACHINE LEARNING & AI
 
 <table>
 <tr>
@@ -274,62 +255,99 @@ Machine learning and data science project focused on classifying emails using pr
 
 ---
 
-# 📌 PROJECT SNAPSHOT
+# 📈 GITHUB STATISTICS
 
 <div align="center">
 
-| Project | Domain | Main Focus |
-|:---|:---:|:---|
-| 🏦 Loan Status Prediction | Machine Learning | Classification / SVM |
-| ❤️ Heart Disease Prediction | Machine Learning | Classification |
-| 🎯 Rock vs Mine Prediction | Machine Learning | Classification |
-| 🎫 AI Engineer Assessment | AI / LLM | Support Ticket Analytics |
-| ✅ Task-Manager-Python | Python | CLI Application |
-| 📧 Spam Email Classifier | ML / NLP | Email Classification |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
 ---
 
-# 🧩 MACHINE LEARNING WORKFLOW
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-```text
-                         DATA
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ DATA CLEANING   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ PREPROCESSING   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │    FEATURES     │
-                  │  ENGINEERING    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ MODEL TRAINING  │
-                  └────────┬────────┘
-                           │
-                 ┌─────────┴─────────┐
-                 ▼                   ▼
-          CLASSIFICATION         REGRESSION
-                 │                   │
-                 └─────────┬─────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │   EVALUATION    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   PREDICTION    │
-                  └─────────────────┘
+<img src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
+
+# 📊 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Sapna's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# 💻 MOST USED LANGUAGES
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+
+</div>
+
+---
+
+# 🌱 CURRENT FOCUS
+
+<div align="center">
+
+| 🎯 Area | 🚀 Focus |
+|:---:|:---|
+| 🤖 Artificial Intelligence | Building strong AI fundamentals |
+| 🧠 Machine Learning | Models, training & evaluation |
+| 📊 Data Science | Data analysis & predictive solutions |
+| 🐍 Python | Problem solving & development |
+| 💻 DSA | Improving coding & logical thinking |
+| 🚀 Projects | Building practical AI/ML applications |
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sunrise-08">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sapna-500454290/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Diamond_1708/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learning → Building → Improving → Growing ✨
+
+<br>
+
+**"Turning curiosity into skills, and skills into solutions."**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:0EA5E9&height=120&section=footer"/>
+
+</div>
