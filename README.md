@@ -1,71 +1,104 @@
 <div align="center">
 
+<br>
+
 # ✦ SAPNA ✦
 
-## AI ENGINEER | ML ENGINEER | DATA SCIENTIST
+### AI ENGINEER &nbsp;|&nbsp; ML ENGINEER &nbsp;|&nbsp; DATA SCIENTIST
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI%2FML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
+<br>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" height="55"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+Data+Science+%7C+DSA;Building+Practical+AI%2FML+Projects;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 
 <br><br>
 
-<a href="https://github.com/Sunrise-08">
-<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6366F1"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" height="52"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9"/>
 
 &nbsp;&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&label=PROFILE+VIEWS&color=0EA5E9"/>
+<a href="https://github.com/Sunrise-08">
+<img src="https://img.shields.io/github/followers/Sunrise-08?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=6366F1"/>
+</a>
 
 <br><br>
 
-### 💼 OPEN TO OPPORTUNITIES
-
-**AI Engineer • ML Engineer • Data Scientist • AI/ML Intern • Data Science Intern**
+**💼 OPEN TO OPPORTUNITIES**
 
 </div>
 
 ---
 
-# 👋 HI, I'M SAPNA
+## 👋 Hi, I'm Sapna
 
-- 🎓 B.Tech Computer Science & Engineering — Artificial Intelligence & Machine Learning
-- 🤖 Aspiring **AI Engineer**
-- 🧠 Aspiring **ML Engineer**
-- 📊 Aspiring **Data Scientist**
-- 🐍 Strong interest in **Python, Machine Learning and Data Science**
-- 💻 Building practical **AI/ML projects**
-- 📚 Strengthening **Data Structures & Algorithms**
-- 🚀 Focused on learning, building and solving real-world problems
-- 🌱 Continuously improving my technical and problem-solving skills
-- 💼 **Open to Opportunities**
+I'm a **B.Tech CSE (AI & ML) student** building my career around **Artificial Intelligence, Machine Learning and Data Science**.
+
+I'm looking to contribute to real-world projects as an **AI Engineer, ML Engineer or Data Scientist**, while continuously developing my programming, analytical and problem-solving skills.
+
+I enjoy transforming ideas into practical projects and learning through implementation.
 
 ---
 
-# 🧠 ABOUT ME
+## 🧠 About Me
 
-I'm a **B.Tech CSE (AI & ML) student** working towards a career in **Artificial Intelligence, Machine Learning and Data Science**.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-My goal is to work as an **AI Engineer, ML Engineer or Data Scientist**, where I can apply my programming, machine learning and analytical skills to solve real-world problems.
+### What I Bring
 
-I enjoy working with **Python, machine learning models, data and AI-based applications**, while continuously improving my programming, analytical and problem-solving abilities.
+- 🐍 Python & programming fundamentals
+- 🤖 Machine Learning & predictive modeling
+- 📊 Data analysis and visualization
+- 🧩 Problem solving & DSA
+- 🔬 Practical project development
+- 📚 Continuous learning
+- 🚀 Strong interest in AI-driven solutions
 
-I'm looking for opportunities where I can **learn from experienced professionals, work on challenging projects, contribute to a team and grow into a strong AI/ML professional.**
+</td>
+
+<td width="45%" valign="top">
+
+### What I'm Looking For
+
+**Roles**
+
+`AI Engineer`
+
+`ML Engineer`
+
+`Data Scientist`
+
+**Opportunities**
+
+`AI/ML Intern`
+
+`Machine Learning Intern`
+
+`Data Science Intern`
+
+<br>
+
+💼 **Open to Opportunities**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ TECH STACK
+# 🛠️ Tech Stack
 
-## 💻 Programming
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html" />
 </p>
 
-## 🤖 Machine Learning & Data Science
+### 🤖 AI / ML & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -75,35 +108,34 @@ I'm looking for opportunities where I can **learn from experienced professionals
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## 🔧 Tools & Development
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
 </p>
 
 ---
 
-# 🚀 PROJECTS
+# 🚀 Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏦 Loan Status Prediction
+### 🏦 Loan Status Prediction
 
-Machine learning classification project that predicts loan approval status using applicant-related information.
+Machine learning classification project for predicting loan approval status using applicant-related information.
 
-### Key Work
+**Key Work**
 
-- Data preprocessing
-- Feature engineering
-- Feature selection
-- Classification
-- Model training
-- Model evaluation
+• Data preprocessing  
+• Feature engineering  
+• Feature selection  
+• SVM classification  
+• Model evaluation  
 
-### Tech Stack
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-Learn` `SVM`
 
@@ -111,20 +143,19 @@ Machine learning classification project that predicts loan approval status using
 
 <td width="50%" valign="top">
 
-## ❤️ Heart Disease Prediction
+### ❤️ Heart Disease Prediction
 
-Machine learning classification project that predicts the possibility of heart disease using patient-related features.
+Classification project for predicting the possibility of heart disease from patient-related features.
 
-### Key Work
+**Key Work**
 
-- Data preprocessing
-- Exploratory analysis
-- Feature analysis
-- Classification
-- Model training
-- Model evaluation
+• Data preprocessing  
+• Exploratory analysis  
+• Feature analysis  
+• Model training  
+• Model evaluation  
 
-### Tech Stack
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-Learn`
 
@@ -136,20 +167,19 @@ Machine learning classification project that predicts the possibility of heart d
 
 <td width="50%" valign="top">
 
-## 🎯 Rock vs Mine Prediction
+### 🎯 Rock vs Mine Prediction
 
-Machine learning classification project using sonar signal data to distinguish between rocks and mines.
+Classification project using sonar signal data to distinguish between rocks and mines.
 
-### Key Work
+**Key Work**
 
-- Numerical data processing
-- Feature analysis
-- Classification
-- Model training
-- Prediction
-- Evaluation
+• Numerical data processing  
+• Feature analysis  
+• Model training  
+• Prediction  
+• Evaluation  
 
-### Tech Stack
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-Learn`
 
@@ -157,20 +187,20 @@ Machine learning classification project using sonar signal data to distinguish b
 
 <td width="50%" valign="top">
 
-## 🎫 AI Engineer Assessment
+### 🎫 AI Engineer Assessment
 
-AI-powered support-ticket analytics application designed to answer questions about support-ticket data using natural language.
+AI-powered support-ticket analytics application that allows users to query ticket data using natural language.
 
-### Key Work
+**Key Work**
 
-- FastAPI backend
-- Streamlit interface
-- Natural-language querying
-- Ticket analytics
-- Local LLM integration
-- Anomaly detection
+• FastAPI backend  
+• Streamlit interface  
+• Natural-language querying  
+• Ticket analytics  
+• Local LLM integration  
+• Anomaly detection  
 
-### Tech Stack
+**Tech Stack**
 
 `Python` `FastAPI` `Streamlit` `Pandas` `Ollama` `Llama 3.2`
 
@@ -182,19 +212,19 @@ AI-powered support-ticket analytics application designed to answer questions abo
 
 <td width="50%" valign="top">
 
-## ✅ Task-Manager-Python
+### ✅ Task-Manager-Python
 
-Python command-line task manager designed to practice programming fundamentals through a practical application.
+Command-line task manager created to practice Python programming fundamentals through a practical application.
 
-### Features
+**Features**
 
-- Add tasks
-- Update tasks
-- Delete tasks
-- View tasks
-- Command-line interaction
+• Add tasks  
+• Update tasks  
+• Delete tasks  
+• View tasks  
+• CLI interaction  
 
-### Tech Stack
+**Tech Stack**
 
 `Python` `CLI`
 
@@ -202,22 +232,22 @@ Python command-line task manager designed to practice programming fundamentals t
 
 <td width="50%" valign="top">
 
-## 📧 Spam Email Classifier
+### 📧 Spam Email Classifier
 
-Machine learning and NLP project focused on classifying emails using text processing and prediction techniques.
+Machine learning and NLP project focused on classifying emails using text processing and predictive modeling.
 
-### Key Work
+**Key Work**
 
-- Data preprocessing
-- Text processing
-- NLP
-- Feature extraction
-- Classification
-- Prediction
+• Data preprocessing  
+• Text processing  
+• NLP  
+• Feature extraction  
+• Classification  
+• Prediction  
 
-### Tech Stack
+**Tech Stack**
 
-`Python` `Jupyter Notebook` `Machine Learning` `NLP`
+`Python` `Jupyter Notebook` `ML` `NLP`
 
 </td>
 
@@ -226,49 +256,37 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 ---
 
-# 📈 GITHUB STATS
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=A855F7&text_color=C9D1D9" height="175"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF"/>
 
 </div>
 
 ---
 
-# 🔥 GITHUB CONTRIBUTION STREAK
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A855F7&currStreakLabel=58A6FF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=6366F1&point=38BDF8&area=true&hide_border=true&custom_title=SAPNA'S%20CONTRIBUTION%20GRAPH" width="96%"/>
 
 </div>
 
 ---
 
-# 📊 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SAPNA'S%20GITHUB%20CONTRIBUTION%20GRAPH" width="98%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sunrise-08/Sunrise-08/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌱 CURRENT FOCUS
+# 🌱 Current Focus
 
 <div align="center">
 
@@ -279,8 +297,7 @@ Machine learning and NLP project focused on classifying emails using text proces
 
 ### 🤖 AI
 
-Artificial Intelligence  
-Fundamentals & Applications
+Artificial Intelligence
 
 </td>
 
@@ -288,8 +305,7 @@ Fundamentals & Applications
 
 ### 🧠 ML
 
-Machine Learning  
-Models & Evaluation
+Machine Learning
 
 </td>
 
@@ -297,8 +313,7 @@ Models & Evaluation
 
 ### 📊 DATA
 
-Data Science  
-Analysis & Prediction
+Data Science
 
 </td>
 
@@ -306,8 +321,7 @@ Analysis & Prediction
 
 ### 💻 DSA
 
-Problem Solving  
-Coding & Algorithms
+Problem Solving
 
 </td>
 
@@ -318,7 +332,7 @@ Coding & Algorithms
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -326,13 +340,19 @@ Coding & Algorithms
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/sapna-500454290/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://leetcode.com/u/Diamond_1708/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -340,14 +360,12 @@ Coding & Algorithms
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ### ✦ LEARNING → BUILDING → IMPROVING → GROWING ✦
 
-<br>
-
-**"Turning knowledge into practical solutions and opportunities."**
+**Turning knowledge into practical solutions.**
 
 </div>
