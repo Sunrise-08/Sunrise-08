@@ -1,16 +1,17 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Sapna — AI Engineer, ML Engineer and Data Scientist"/>
+<img src="./profile-banner.png" width="100%" alt="Sapna | AI Engineer, ML Engineer and Data Scientist"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <a href="https://github.com/Sunrise-08?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0088CC" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0088CC" alt="GitHub Followers"/>
 </a>
 
 </div>
+
 ---
 
 ## 👋 Hi, I'm Sapna
