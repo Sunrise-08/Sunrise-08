@@ -1,46 +1,30 @@
- <div align="center">
+<div align="center">
 
-<table>
-<tr>
-<td width="60%" valign="middle" align="center">
+<table> <tr> <td width="55%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=550&height=55&lines=HEY%2C+I%27M+SAPNA+%F0%9F%91%8B;AI+ENGINEER+%7C+ML+ENGINEER;DATA+SCIENTIST;BUILDING+PRACTICAL+AI+PROJECTS" alt="Sapna's introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="Sapna's introduction"/>
 
-<br/>
+<h1>SAPNA</h1>
 
-### SAPNA
+<h3>AI Engineer | ML Engineer | Data Scientist</h3>
 
-**AI Engineer · ML Engineer · Data Scientist**
+<p><i>Exploring AI, building ML projects, and growing through code.</i></p>
 
-*Exploring AI, building ML projects, and growing through code.*
+</td> <td width="45%" align="center" valign="middle">
 
-<br/>
+<img src="./profile-banner.png" width="100%" alt="Sapna's AI and ML coding workspace"/>
 
-<a href="https://github.com/Sunrise-08">
-<img src="https://img.shields.io/badge/GitHub-Sunrise--08-161B22?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation"/>
-
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
 <br/>
 
-<a href="https://github.com/Sunrise-08">
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/Sunrise-08?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=168AAD" alt="GitHub followers"/>
-</a>
+<a href="https://github.com/Sunrise-08"> <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views"/> </a> <a href="https://github.com/Sunrise-08?tab=followers"> <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=168AAD" alt="GitHub followers"/> </a>
+
+<br/><br/>
+
+Python   •   Machine Learning   •   Data Science   •   Problem Solving
 
 </div>
-
----
 
 ---
 
