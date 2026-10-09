@@ -1,29 +1,33 @@
  <div align="center">
 
+<table>
+<tr>
+<td width="65%" valign="middle" align="center">
+
 # SAPNA
 
-### B.Tech CSE | Artificial Intelligence & Machine Learning
+### AI ENGINEER | ML ENGINEER | DATA SCIENTIST
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Sapna+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Building+Practical+ML+Projects;Learning+%7C+Building+%7C+Improving" alt="Sapna's typing animation"/>
+**Artificial Intelligence • Machine Learning • Data Science**
+
+*Learning, building, and growing through practical projects.*
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://github.com/Sunrise-08.png" width="100%" alt="GitHub profile image"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<a href="https://github.com/Sunrise-08">
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/Sunrise-08?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&color=blue&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-
-<br><br>
-
-**AI / ML • Python • Data Science • Problem Solving**
-
-*Turning what I learn into practical projects.*
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Sunrise-08?tab=followers"><img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0088CC" alt="GitHub followers"/></a>
 
 </div>
 
-</div>
 
 ---
 
