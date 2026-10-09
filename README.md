@@ -24,31 +24,6 @@
 
 ---
 
-### `~/ what-i-work-with`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / Artificial Intelligence**
-
-* Machine Learning
-* Classification & Regression
-* Model Evaluation
-
-</td>
-<td width="50%" valign="top">
-
-**02 / Tools & Technologies**
-
-* Python · Java · C
-* NumPy · Pandas
-* Scikit-learn · Matplotlib
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 *Learning by building. Improving with every project.*
