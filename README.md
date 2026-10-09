@@ -16,7 +16,7 @@ Exploring AI, building ML projects, and growing through code.
 Artificial Intelligence   •   Machine Learning   •   Data Science
 
 </div>
----
+
 
 ## 👋 Hi, I'm Sapna
 
