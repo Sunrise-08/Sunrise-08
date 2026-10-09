@@ -1,43 +1,61 @@
  <div align="center">
 
-<h1>
-  <samp>Hi, I'm Sapna 👋</samp>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=8B9DFF&center=true&vCenter=true&width=550&height=35&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+AI%2FML+SPACE" alt="Hello World"/>
 
-<h3>
-  AI Engineer&nbsp; | &nbsp;ML Engineer&nbsp; | &nbsp;Data Scientist
-</h3>
+# SAPNA
 
-<p>
-  <samp>Artificial Intelligence • Machine Learning • Data Science</samp>
-</p>
+### `AI Engineer` · `ML Engineer` · `Data Scientist`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=8B9DFF&center=true&vCenter=true&width=650&height=45&lines=Building+projects+with+Python;Exploring+Machine+Learning;Learning+Data+Science+step+by+step;Turning+ideas+into+practical+solutions" alt="Typing animation"/>
+**Artificial Intelligence | Machine Learning | Data Science**
+
+*Exploring intelligent systems and turning ideas into practical projects.*
 
 <br/>
 
 <a href="https://github.com/Sunrise-08">
-  <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GitHub-Sunrise--08-161B22?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
 <a href="https://github.com/Sunrise-08?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=168AAD" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=Followers&color=8957E5" alt="GitHub followers"/>
 </a>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center">🧠<br/><b>Artificial Intelligence</b></td>
-    <td align="center">⚙️<br/><b>Machine Learning</b></td>
-    <td align="center">📊<br/><b>Data Science</b></td>
-    <td align="center">💻<br/><b>Python</b></td>
-  </tr>
-</table>
-
-<p><i>Learn continuously. Build thoughtfully. Improve every day.</i></p>
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=168AAD&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
+---
+
+### `~/ what-i-work-with`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / Artificial Intelligence**
+
+* Machine Learning
+* Classification & Regression
+* Model Evaluation
+
+</td>
+<td width="50%" valign="top">
+
+**02 / Tools & Technologies**
+
+* Python · Java · C
+* NumPy · Pandas
+* Scikit-learn · Matplotlib
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Learning by building. Improving with every project.*
+
+</div>
+
+---
 
 ---
 
