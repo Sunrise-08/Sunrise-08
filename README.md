@@ -1,32 +1,21 @@
 <div align="center">
 
-<table> <tr> <td width="55%" valign="middle" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B9DFF&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="Sapna's introduction"/>
 
-<img src="./profile-banner.png" width="100%" alt="Sapna's AI and ML coding workspace">
-workspace"/>font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="Sapna's introduction"/>
+SAPNA
+AI Engineer · ML Engineer · Data Scientist
 
-<h1>SAPNA</h1>
-
-<h3>AI Engineer | ML Engineer | Data Scientist</h3>
-
-<p><i>Exploring AI, building ML projects, and growing through code.</i></p>
-
-</td> <td width="45%" align="center" valign="middle">
-
-<img src="./profile-banner.png" width="100%" alt="Sapna's AI and ML coding workspace"/>
-
-</td> </tr> </table>
+Exploring AI, building ML projects, and growing through code.
 
 <br/>
 
-<a href="https://github.com/Sunrise-08"> <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views"/> </a> <a href="https://github.com/Sunrise-08?tab=followers"> <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=168AAD" alt="GitHub followers"/> </a>
+<a href="https://github.com/Sunrise-08"> <img src="https://img.shields.io/badge/GitHub-Sunrise--08-181717?style=for-the-badge&logo=github" alt="GitHub profile"/> </a> <a href="https://github.com/Sunrise-08?tab=followers"> <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=8957E5" alt="GitHub followers"/> </a> <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=168AAD&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-Python   •   Machine Learning   •   Data Science   •   Problem Solving
+Artificial Intelligence   •   Machine Learning   •   Data Science
 
 </div>
-
 ---
 
 ## 👋 Hi, I'm Sapna
