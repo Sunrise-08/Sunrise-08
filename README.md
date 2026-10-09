@@ -1,85 +1,70 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0D1117,50:102A43,100:312E81&text=SAPNA&fontSize=52&fontColor=FFFFFF&fontAlignY=48&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descSize=13&descAlignY=75&descColor=BFDBFE" width="100%"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&color=21F9FF&weight=700&size=32&center=true&vCenter=true&width=900&height=100&duration=2500&pause=1000&lines=HEY%2C+I+AM+SAPNA;AI+ENGINEER+%7C+ML+ENGINEER;BUILDING+PRACTICAL+AI%2FML+PROJECTS;OPEN+TO+OPPORTUNITIES" alt="Typing SVG"/>
+</a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sapna+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+by+Building+%26+Experimenting;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG"/>
-
-<br>
-
-<a href="https://github.com/Sunrise-08">
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-&nbsp;
-<a href="https://github.com/Sunrise-08?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunrise-08?style=flat-square&color=6366F1&label=Followers&logo=github" alt="GitHub followers"/>
-</a>
+<img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="300" alt="Coding animation"/>
 
 <br><br>
 
-**B.Tech CSE — Artificial Intelligence & Machine Learning**
-
-*Learning continuously. Building practically. Improving consistently.*
-
-<br>
-
-<a href="https://github.com/Sunrise-08?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<a href="https://github.com/Sunrise-08">
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-<a href="https://www.linkedin.com/in/sapna-500454290/">
-<img src="https://img.shields.io/badge/Connect-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+&nbsp;
+<a href="https://github.com/Sunrise-08?tab=followers">
+<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&color=blue&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
 
 </div>
 
 ---
 
-## `01` — About Me
+## 👋 Hi, I'm Sapna
 
-Hello! I'm **Sapna**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
+🎓 B.Tech CSE undergraduate specializing in **Artificial Intelligence & Machine Learning**, from India.
 
-I'm interested in developing intelligent applications, exploring machine learning techniques, and using data to solve practical problems. I believe in strengthening my fundamentals through hands-on implementation and continuously improving my technical skills.
+💫 Interested in Artificial Intelligence, Machine Learning and Data Science.
 
-* 🤖 Exploring Artificial Intelligence, Machine Learning and Data Science.
-* 🐍 Working with Python, data analysis and predictive modeling.
-* 📊 Learning through practical projects and experimentation.
-* 🧩 Strengthening my Data Structures and Algorithms fundamentals.
-* 🚀 Open to relevant internships, entry-level roles and collaborative projects.
+🔭 Continuously enhancing my programming and analytical skills.
+
+📊 Learning by building practical projects and experimenting with data.
+
+🌱 Strengthening my foundations in DSA and problem-solving.
+
+🚀 Open to relevant internships, entry-level opportunities and collaborations.
 
 ---
 
-## `02` — Technical Arsenal
-
-<div align="center">
+## 💻 TECH STACK
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Python, Java and C"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html" alt="Python, Java, C and HTML"/>
+</p>
 
 ### AI / ML & Data Science
 
+<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
 
-### Frameworks & Development
+### Tools & Development Environment
 
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,html&theme=dark" alt="FastAPI, Streamlit and HTML"/>
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code and Jupyter"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" alt="Git, GitHub, Jupyter and VS Code"/>
+</p>
 
 ---
 
-## `03` — Featured Projects
-
-<div align="center">
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -87,30 +72,32 @@ I'm interested in developing intelligent applications, exploring machine learnin
 
 ### 🏦 Loan Status Prediction
 
-A classification model that predicts loan approval status using applicant-related data.
+Machine learning classification for predicting loan approval status using applicant data.
 
-**Highlights**
+**Key Work**
 
-* Data preprocessing and feature selection
-* Support Vector Machine (SVM)
-* Model training and evaluation
+* Data preprocessing and feature engineering
+* Feature selection
+* SVM classification
+* Model evaluation
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · SVM
 
 </td>
 <td width="50%" valign="top">
 
 ### ❤️ Heart Disease Prediction
 
-A machine learning project that analyzes patient-related features to predict the likelihood of heart disease.
+A classification project that predicts the likelihood of heart disease from patient-related features.
 
-**Highlights**
+**Key Work**
 
-* Data analysis and preprocessing
-* Classification modeling
-* Predictive evaluation
+* Data preprocessing
+* Exploratory data analysis
+* Model training
+* Prediction and evaluation
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn
 
 </td>
 </tr>
@@ -119,31 +106,33 @@ A machine learning project that analyzes patient-related features to predict the
 
 ### 🎯 Rock vs Mine Prediction
 
-A sonar-data classification project that distinguishes between rocks and mines.
+A supervised learning project that classifies sonar signals as rocks or mines.
 
-**Highlights**
+**Key Work**
 
-* Numerical feature processing
-* Supervised machine learning
-* Prediction and evaluation
+* Numerical data processing
+* Feature analysis
+* Model training
+* Classification and evaluation
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎫 AI Engineer Assessment
 
-A support-ticket analytics application that answers questions about ticket data using natural language.
+A support-ticket analytics application that accepts natural-language questions about ticket data.
 
-**Highlights**
+**Key Work**
 
-* FastAPI backend and Streamlit interface
+* FastAPI backend
+* Streamlit interface
 * Natural-language querying
-* Ticket analytics and anomaly detection
+* Analytics and anomaly detection
 * Local LLM integration
 
-**Stack:** Python · FastAPI · Streamlit · Pandas · Ollama · Llama 3.2
+**Tech Stack:** Python · FastAPI · Streamlit · Pandas · Ollama · Llama 3.2
 
 </td>
 </tr>
@@ -152,143 +141,117 @@ A support-ticket analytics application that answers questions about ticket data 
 
 ### ✅ Task Manager — Python
 
-A command-line application for managing everyday tasks and practicing core Python concepts.
+A command-line application for managing everyday tasks.
 
-**Highlights**
+**Key Work**
 
-* Add, view, update and delete tasks
+* Add and view tasks
+* Update and delete tasks
 * Command-line interaction
-* Programming fundamentals
 
-**Stack:** Python · CLI
+**Tech Stack:** Python · CLI
 
 </td>
 <td width="50%" valign="top">
 
 ### 📧 Spam Email Classifier
 
-A machine learning and NLP project focused on classifying email messages using their textual content.
+An NLP and machine learning project for classifying email messages.
 
-**Highlights**
+**Key Work**
 
 * Text preprocessing
 * Feature extraction
+* NLP
 * Classification and prediction
 
-**Stack:** Python · Jupyter Notebook · NLP · Machine Learning
+**Tech Stack:** Python · Jupyter Notebook · NLP · Machine Learning
 
 </td>
 </tr>
 </table>
 
-**Explore more on my profile**
+<div align="center">
 
 <a href="https://github.com/Sunrise-08?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
 
 </div>
 
 ---
 
-## `04` — GitHub Analytics
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=60A5FA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunrise-08&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrise-08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" alt="GitHub contribution streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Sunrise-08&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=A78BFA&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `05` — Contribution Activity
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=93C5FD&line=818CF8&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunrise-08&bg_color=0D1117&color=58A6FF&line=818CF8&point=FFFFFF&area=true&area_color=312E81&hide_border=false&custom_title=SAPNA%27S%20GITHUB%20CONTRIBUTION%20GRAPH" width="100%" alt="Sapna's GitHub contribution graph"/>
+
+<br>
+
+<a href="https://github.com/Sunrise-08">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunrise-08&theme=github_dark" width="100%" alt="GitHub profile contribution summary"/>
+</a>
 
 </div>
 
 ---
 
-## `06` — Currently Focused On
+## 🌱 CURRENT FOCUS
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+| 🤖 Artificial Intelligence |      🧠 Machine Learning     |
+| :------------------------: | :--------------------------: |
+|    Exploring AI concepts   | Developing predictive models |
 
-🤖
-
-**Artificial Intelligence**
-
-Exploring intelligent systems
-
-</td>
-<td align="center" width="25%">
-
-🧠
-
-**Machine Learning**
-
-Models and prediction
-
-</td>
-<td align="center" width="25%">
-
-📊
-
-**Data Science**
-
-Analysis and insights
-
-</td>
-<td align="center" width="25%">
-
-🧩
-
-**DSA**
-
-Logic and problem solving
-
-</td>
-</tr>
-</table>
+|       📊 Data Science      |           💻 DSA          |
+| :------------------------: | :-----------------------: |
+| Data analysis and insights | Logic and problem-solving |
 
 </div>
 
 ---
 
-## `07` — Let's Connect
+## 🌐 LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Sunrise-08">
-<img src="https://img.shields.io/badge/GitHub-Sunrise--08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Sunrise--08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/sapna-500454290/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sapna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://leetcode.com/u/Diamond_1708/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+<img src="https://img.shields.io/badge/LeetCode-Diamond__1708-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-</div>
+<a href="mailto:useof8903@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sapna"/>
+</a>
 
-<br>
+<br><br>
 
-<div align="center">
+**Learning → Building → Improving → Growing**
 
-### BUILD. LEARN. EXPERIMENT. EVOLVE.
-
-*Every project is an opportunity to learn something new.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&section=footer&color=0:312E81,50:102A43,100:0D1117" width="100%" alt="Footer"/>
+*Turning knowledge into practical solutions.*
 
 </div>
