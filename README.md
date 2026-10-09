@@ -2,7 +2,7 @@
 
 <table> <tr> <td width="55%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="Sapna's introduction"/>
+<img src="./profile-banner.png" width="100%" alt="Sapna's AI and ML coding workspace"/>font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="Sapna's introduction"/>
 
 <h1>SAPNA</h1>
 
