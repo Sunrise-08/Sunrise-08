@@ -1,16 +1,43 @@
  <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Sapna | AI Engineer, ML Engineer and Data Scientist"/>
+<h1>
+  <samp>Hi, I'm Sapna 👋</samp>
+</h1>
 
-<br><br>
+<h3>
+  AI Engineer&nbsp; | &nbsp;ML Engineer&nbsp; | &nbsp;Data Scientist
+</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+<p>
+  <samp>Artificial Intelligence • Machine Learning • Data Science</samp>
+</p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=8B9DFF&center=true&vCenter=true&width=650&height=45&lines=Building+projects+with+Python;Exploring+Machine+Learning;Learning+Data+Science+step+by+step;Turning+ideas+into+practical+solutions" alt="Typing animation"/>
+
+<br/>
+
+<a href="https://github.com/Sunrise-08">
+  <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
 <a href="https://github.com/Sunrise-08?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0088CC" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=168AAD" alt="GitHub followers"/>
 </a>
 
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">🧠<br/><b>Artificial Intelligence</b></td>
+    <td align="center">⚙️<br/><b>Machine Learning</b></td>
+    <td align="center">📊<br/><b>Data Science</b></td>
+    <td align="center">💻<br/><b>Python</b></td>
+  </tr>
+</table>
+
+<p><i>Learn continuously. Build thoughtfully. Improve every day.</i></p>
+
 </div>
+
 
 ---
 
