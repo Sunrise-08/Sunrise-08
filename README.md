@@ -1,32 +1,42 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=8B9DFF&center=true&vCenter=true&width=550&height=35&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+AI%2FML+SPACE" alt="Hello World"/>
+<table>
+<tr>
+<td width="60%" valign="middle" align="center">
 
-# SAPNA
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=550&height=55&lines=HEY%2C+I%27M+SAPNA+%F0%9F%91%8B;AI+ENGINEER+%7C+ML+ENGINEER;DATA+SCIENTIST;BUILDING+PRACTICAL+AI+PROJECTS" alt="Sapna's introduction"/>
 
-### `AI Engineer` · `ML Engineer` · `Data Scientist`
+<br/>
 
-**Artificial Intelligence | Machine Learning | Data Science**
+### SAPNA
 
-*Exploring intelligent systems and turning ideas into practical projects.*
+**AI Engineer · ML Engineer · Data Scientist**
+
+*Exploring AI, building ML projects, and growing through code.*
 
 <br/>
 
 <a href="https://github.com/Sunrise-08">
-  <img src="https://img.shields.io/badge/GitHub-Sunrise--08-161B22?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Sunrise--08-161B22?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Sunrise-08">
+<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <a href="https://github.com/Sunrise-08?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=Followers&color=8957E5" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=168AAD" alt="GitHub followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=168AAD&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-<div align="center">
-
-*Learning by building. Improving with every project.*
 
 </div>
 
