@@ -1,34 +1,16 @@
- <div align="center">
+<div align="center">
 
-<table>
-<tr>
-<td width="65%" valign="middle" align="center">
+<img src="assets/profile-banner.png" width="100%" alt="Sapna — AI Engineer, ML Engineer and Data Scientist"/>
 
-# SAPNA
-
-### AI ENGINEER | ML ENGINEER | DATA SCIENTIST
-
-**Artificial Intelligence • Machine Learning • Data Science**
-
-*Learning, building, and growing through practical projects.*
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://github.com/Sunrise-08.png" width="100%" alt="GitHub profile image"/>
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
-<a href="https://github.com/Sunrise-08?tab=followers"><img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0088CC" alt="GitHub followers"/></a>
+
+<a href="https://github.com/Sunrise-08?tab=followers">
+<img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=0088CC" alt="GitHub followers"/>
+</a>
 
 </div>
-
-
 ---
 
 ## 👋 Hi, I'm Sapna
