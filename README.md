@@ -1,22 +1,27 @@
  <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&color=21F9FF&weight=700&size=32&center=true&vCenter=true&width=900&height=100&duration=2500&pause=1000&lines=HEY%2C+I+AM+SAPNA;AI+ENGINEER+%7C+ML+ENGINEER;BUILDING+PRACTICAL+AI%2FML+PROJECTS;OPEN+TO+OPPORTUNITIES" alt="Typing SVG"/>
-</a>
+# SAPNA
+
+### B.Tech CSE | Artificial Intelligence & Machine Learning
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Sapna+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Building+Practical+ML+Projects;Learning+%7C+Building+%7C+Improving" alt="Sapna's typing animation"/>
 
 <br>
-
-<img src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif" width="300" alt="Coding animation"/>
-
-<br><br>
 
 <a href="https://github.com/Sunrise-08">
 <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-&nbsp;
 <a href="https://github.com/Sunrise-08?tab=followers">
 <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&color=blue&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
+
+<br><br>
+
+**AI / ML • Python • Data Science • Problem Solving**
+
+*Turning what I learn into practical projects.*
+
+</div>
 
 </div>
 
