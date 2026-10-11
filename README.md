@@ -9,9 +9,7 @@ AI Engineer · ML Engineer · Data Scientist
 
 <br/>
 
-<a href="https://github.com/Sunrise-08"> <img src="https://img.shields.io/badge/GitHub-Sunrise--08-181717?style=for-the-badge&logo=github" alt="GitHub profile"/> </a> <a href="https://github.com/Sunrise-08?tab=followers"> <img src="https://img.shields.io/github/followers/Sunrise-08?style=for-the-badge&logo=github&label=FOLLOWERS&color=8957E5" alt="GitHub followers"/> </a> <img src="https://komarev.com/ghpvc/?username=Sunrise-08&style=for-the-badge&color=168AAD&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/><br/>
 
 
 
