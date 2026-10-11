@@ -208,21 +208,8 @@ An NLP and machine learning project for classifying email messages.
 
 ---
 
-## 🌱 CURRENT FOCUS
 
-<div align="center">
 
-| 🤖 Artificial Intelligence |      🧠 Machine Learning     |
-| :------------------------: | :--------------------------: |
-|    Exploring AI concepts   | Developing predictive models |
-
-|       📊 Data Science      |           💻 DSA          |
-| :------------------------: | :-----------------------: |
-| Data analysis and insights | Logic and problem-solving |
-
-</div>
-
----
 
 ## 🌐 LET'S CONNECT
 
