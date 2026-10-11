@@ -5,7 +5,7 @@
 SAPNA
 AI Engineer · ML Engineer · Data Scientist
 
-Exploring AI, building ML projects, and growing through code.
+
 
 <br/>
 
@@ -13,7 +13,7 @@ Exploring AI, building ML projects, and growing through code.
 
 <br/><br/>
 
-Artificial Intelligence   •   Machine Learning   •   Data Science
+
 
 </div>
 
