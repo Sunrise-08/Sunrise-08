@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B9DFF&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="Sapna's introduction"/>
-
-SAPNA
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B9DFF&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+Sapna+%F0%9F%91%8B;AI+Engineer+%7C+ML+Engineer;Data+Scientist;Building+Practical+AI+Projects" alt="SAPNA's introduction"/>
 
 
 
